@@ -1,0 +1,28 @@
+{
+  "registros": [
+    {
+      "edad": 25,
+      "ingresos": 15000,
+      "genero": "FEMENINO!!",
+      "ciudad": "MÉXICO."
+    },
+    {
+      "edad": null,
+      "ingresos": 20000,
+      "genero": "Masculino",
+      "ciudad": "Tijuana"
+    },
+    {
+      "edad": 35,
+      "ingresos": null,
+      "genero": "Femenino",
+      "ciudad": "MÉXICO"
+    },
+    {
+      "edad": 40,
+      "ingresos": 30000,
+      "genero": null,
+      "ciudad": "Tijuana"
+    }
+  ]
+}

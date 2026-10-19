@@ -1,0 +1,38 @@
+# Environment files and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Node.js (if used by tooling)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Serverless / AWS build output
+.serverless/
+.aws-sam/
+dist/
+build/
+
+# Logs and local files
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
